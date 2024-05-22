@@ -9,8 +9,8 @@ This course is designed by David Beazley, author of the Python Cookbook, release
 
 ## Scenarios
 
-|   Index | Name                                              | Difficulty   | URL                                                                  |
-|---------|---------------------------------------------------|--------------|----------------------------------------------------------------------|
+|   Index | Name                                             | Difficulty   | URL                                                                  |
+|---------|--------------------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 Python Programming Introduction                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132700'>Start Lab</a> |
 |      02 | 📖 A First Program                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132701'>Start Lab</a> |
 |      03 | 📖 Mathematical Calculations Tutorial             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132702'>Start Lab</a> |
