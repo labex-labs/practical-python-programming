@@ -9,7 +9,7 @@ This course is designed by David Beazley, author of the Python Cookbook, release
 
 ## Scenarios
 
-|   Index | Name                                             | Difficulty   | URL                                                                  |
+|   Index | Name                                             | Difficulty   | Practice                                                             |
 |---------|--------------------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 Python Programming Introduction                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132700'>Start Lab</a> |
 |      02 | 📖 A First Program                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132701'>Start Lab</a> |
@@ -52,4 +52,9 @@ This course is designed by David Beazley, author of the Python Cookbook, release
 |      39 | 📖 Organizing Larger Python Programs              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132738'>Start Lab</a> |
 |      40 | 📖 Third Party Modules                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132739'>Start Lab</a> |
 |      41 | 📖 Sharing Python Code Basics                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132740'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 
