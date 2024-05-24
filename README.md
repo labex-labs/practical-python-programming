@@ -1,6 +1,6 @@
 # Practical Python Programming
 
-![Practical Python Programming](https://cover-creator.labex.io/practical-python-programming.png)
+![Practical Python Programming](https://cover-creator.appbot.io/practical-python-programming.png)
 
 This course is designed by David Beazley, author of the Python Cookbook, released under a Creative Commons license. The goal of this course is to cover foundational aspects of Python programming with an emphasis on script writing, basic data manipulation, and program organization.
 
