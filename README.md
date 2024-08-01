@@ -48,7 +48,7 @@ This course is designed by David Beazley, author of the Python Cookbook, release
 |      35 | 📖 Built-in Method Decorators Introduction        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132734'>Start Lab</a> |
 |      36 | 📖 Python Testing Essentials                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132735'>Start Lab</a> |
 |      37 | 📖 Logging Module Introduction                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132736'>Start Lab</a> |
-|      38 | 📖 Mastering Code Debugging Techniques            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132737'>Start Lab</a> |
+|      38 | 📖 Code Debugging Techniques                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132737'>Start Lab</a> |
 |      39 | 📖 Organizing Larger Python Programs              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132738'>Start Lab</a> |
 |      40 | 📖 Third Party Modules                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132739'>Start Lab</a> |
 |      41 | 📖 Sharing Python Code Basics                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/132740'>Start Lab</a> |
