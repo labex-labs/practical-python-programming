@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                              | Difficulty   | Practice                                                                                                                        |
-|---------|---------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                             | Difficulty   | Practice                                                                                                                        |
+|---------|--------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Python Programming Introduction                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-python-programming-introduction-132700'>Start Lab</a>                |
 |      02 | 📖 A First Program                                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-a-first-program-132701'>Start Lab</a>                                |
 |      03 | 📖 Mathematical Calculations Tutorial             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-mathematical-calculations-tutorial-132702'>Start Lab</a>             |
