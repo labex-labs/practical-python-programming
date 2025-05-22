@@ -1,6 +1,6 @@
 # Practical Python Programming
 
-[![Practical Python Programming](https://cover-creator.appbot.io/practical-python-programming.png)](https://labex.io/courses/practical-python-programming)
+[![Practical Python Programming](https://cover-creator.labex.io/practical-python-programming.png)](https://labex.io/courses/practical-python-programming)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/practical-python-programming)
 
@@ -15,7 +15,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -25,24 +25,24 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                             | Difficulty   | Practice                                                                                                                        |
-|---------|--------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Python Programming Introduction                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-python-programming-introduction-132700'>Start Lab</a>                |
-|      02 | 📖 A First Program                                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-a-first-program-132701'>Start Lab</a>                                |
-|      03 | 📖 Mathematical Calculations Tutorial             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-mathematical-calculations-tutorial-132702'>Start Lab</a>             |
-|      04 | 📖 Text Processing Fundamentals                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-text-processing-fundamentals-132703'>Start Lab</a>                   |
+|   Index | Name                                              | Difficulty   | Practice                                                                                                                        |
+|---------|---------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Python Programming Introduction                | ★★★          | <a target='_blank' href='https://labex.io/tutorials/python-python-programming-introduction-132700'>Start Lab</a>                |
+|      02 | 📖 A First Program                                | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/python-a-first-program-132701'>Start Lab</a>                                |
+|      03 | 📖 Mathematical Calculations Tutorial             | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/python-mathematical-calculations-tutorial-132702'>Start Lab</a>             |
+|      04 | 📖 Text Processing Fundamentals                   | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/python-text-processing-fundamentals-132703'>Start Lab</a>                   |
 |      05 | 📖 Introducing Python Lists Fundamentals          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-introducing-python-lists-fundamentals-132704'>Start Lab</a>          |
 |      06 | 📖 File Access Fundamentals                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-file-access-fundamentals-132705'>Start Lab</a>                       |
-|      07 | 📖 Organizing Larger Programs with Functions      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-organizing-larger-programs-with-functions-132706'>Start Lab</a>      |
+|      07 | 📖 Organizing Larger Programs with Functions      | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/python-organizing-larger-programs-with-functions-132706'>Start Lab</a>      |
 |      08 | 📖 Datatypes and Data Structures                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-datatypes-and-data-structures-132707'>Start Lab</a>                  |
-|      09 | 📖 Lists Dictionaries Sets Introduction           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-lists-dictionaries-sets-introduction-132708'>Start Lab</a>           |
-|      10 | 📖 Structured Data Output for Data Analysis       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-structured-data-output-for-data-analysis-132709'>Start Lab</a>       |
-|      11 | 📖 Python Sequence Fundamentals                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-python-sequence-fundamentals-132710'>Start Lab</a>                   |
+|      09 | 📖 Lists Dictionaries Sets Introduction           | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/python-lists-dictionaries-sets-introduction-132708'>Start Lab</a>           |
+|      10 | 📖 Structured Data Output for Data Analysis       | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/python-structured-data-output-for-data-analysis-132709'>Start Lab</a>       |
+|      11 | 📖 Python Sequence Fundamentals                   | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/python-python-sequence-fundamentals-132710'>Start Lab</a>                   |
 |      12 | 📖 Concise Introduction to Collections Module     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-concise-introduction-to-collections-module-132711'>Start Lab</a>     |
 |      13 | 📖 List Comprehension for Processing Items        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-list-comprehension-for-processing-items-132712'>Start Lab</a>        |
 |      14 | 📖 Python Object Model Internals                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-python-object-model-internals-132713'>Start Lab</a>                  |
-|      15 | 📖 Python Script Writing Practice                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-python-script-writing-practice-132714'>Start Lab</a>                 |
-|      16 | 📖 More on Functions                              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-more-on-functions-132715'>Start Lab</a>                              |
+|      15 | 📖 Python Script Writing Practice                 | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/python-python-script-writing-practice-132714'>Start Lab</a>                 |
+|      16 | 📖 More on Functions                              | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/python-more-on-functions-132715'>Start Lab</a>                              |
 |      17 | 📖 Error Handling and Exceptions                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-error-handling-and-exceptions-132716'>Start Lab</a>                  |
 |      18 | 📖 Modular Programming with Functions             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-modular-programming-with-functions-132717'>Start Lab</a>             |
 |      19 | 📖 Main Program Introduction                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-main-program-introduction-132718'>Start Lab</a>                      |
